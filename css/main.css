@@ -210,7 +210,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #home {
-  background: url('../images/simran.jpg') 50% 0 fixed;
+  background: url('../images/simran-greyscale.jpg') 50% 0 fixed;
   background-size: cover;
   background-position: center center;
   border-radius: 5px;
